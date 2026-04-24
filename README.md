@@ -1,55 +1,77 @@
-# Hey, I'm Kaushal 👋
+<div align="center">
 
-GTM Engineer. I build systems that automate outbound, enrich pipelines, and make revenue teams move faster using AI and data signals.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Kaushal%20Chaudhary&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=GTM%20Engineer%20%7C%20Outbound%20Automation%20%7C%20AI%20Workflows&descAlignY=58&descSize=16)
 
----
+</div>
 
-## What I do
+<div align="center">
 
-I sit at the intersection of marketing ops, sales automation, and AI tooling. My job is to turn messy GTM problems into clean, automated systems that scale without adding headcount.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushalch)
+[![Mailsfly](https://img.shields.io/badge/Mailsfly.com-FF6B35?style=for-the-badge&logo=mail.ru&logoColor=white)](https://mailsfly.com)
+[![Location](https://img.shields.io/badge/Delhi,%20India-20232A?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
-- **Outbound infrastructure** — I build end-to-end outbound engines: lead sourcing, enrichment, scoring, sequencing, and delivery. All connected, all automated.
-- **Signal-based targeting** — I use buying signals, intent data, and behavioral triggers to reach the right prospect at the right time, not just spray and pray.
-- **Email deliverability** — I set up and manage high-volume email infrastructure on AWS SES. SPF, DKIM, DMARC, domain warmup, inbox placement, the whole thing.
-- **CRM architecture** — I design and maintain CRM workflows that keep data clean, stages accurate, and handoffs between marketing and sales friction-free.
-- **AI-powered workflows** — I build AI agents and automations that handle research, personalization, and lead qualification at scale.
+</div>
 
 ---
 
-## What I'm working on
+---
 
-- Building [Mailsfly.com](https://mailsfly.com) — permission-based email marketing on AWS SES with bring-your-own-credentials
-- Designing signal-based outbound systems using Clay, Apollo, and Instantly
-- Automating GTM workflows with AI agents and custom API integrations
+## ⚡ What I do
+
+| Area | What it means in practice |
+|------|--------------------------|
+| 🎯 Signal-based outbound | Buying signals, intent data, behavioral triggers — not spray and pray |
+| 📬 Email infrastructure | AWS SES at scale, SPF/DKIM/DMARC, domain warmup, inbox placement |
+| 🤖 AI-powered workflows | Agents that handle research, personalization, and qualification at scale |
+| 🔗 CRM architecture | Clean data, accurate stages, zero friction between marketing and sales |
+| ⚙️ GTM automation | End-to-end outbound engines: sourcing, enrichment, scoring, sequencing |
 
 ---
 
-## My stack
+## 🛠 Stack
 
-**Outbound and enrichment:** `Clay` `Apollo` `Instantly` `Lemlist` `Hunter.io`
+**Outbound and enrichment**
 
-**Email infrastructure:** `AWS SES` `Postmark` `Mailgun`
+![Clay](https://img.shields.io/badge/Clay-000000?style=flat-square&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo.io-3B0764?style=flat-square&logoColor=white)
+![Instantly](https://img.shields.io/badge/Instantly-FF4F00?style=flat-square&logoColor=white)
 
-**Automation and integration:** `Make` `Zapier` `n8n` `Webhooks` `REST APIs`
+**Email infrastructure**
 
-**CRM and ops:** `HubSpot` `Salesforce` `Notion`
+![AWS SES](https://img.shields.io/badge/AWS%20SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Postmark](https://img.shields.io/badge/Postmark-FFDE00?style=flat-square&logoColor=black)
 
-**Code:** `Python` `Node.js` `JavaScript`
+**Automation**
 
-**AI tooling:** `Claude API` `OpenAI` `LangChain`
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+
+**Code and AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## A few things I've shipped
+## 📈 Shipped
 
-- Reduced manual GTM tasks by 70% using webhook-based automation
-- Scaled email infrastructure to 1M+ sends per month on AWS SES
-- Increased MQLs by 30% through signal-based enrichment workflows
-- Improved open rates by 20% through deliverability tuning and list hygiene
-- Built AI agents that handle lead research and personalization at 100K+ emails per day
+- 🔻 **70%** reduction in manual GTM tasks via webhook automation
+- 📧 **1M+** emails per month on AWS SES
+- 📈 **30%** increase in MQLs through signal-based enrichment
+- 💌 **20%** open rate lift through deliverability tuning
+- 🤖 **100K+** daily emails handled by AI personalization agents
 
 ---
 
-## Get in touch
+## 🚀 Currently building
 
-LinkedIn: [in/kaushalch](https://linkedin.com/in/kaushalch) · Website: [mailsfly.com](https://mailsfly.com)
+**[Mailsfly.com](https://mailsfly.com)** — permission-based email marketing SaaS on AWS SES. Bring your own credentials, keep your own deliverability.
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer)
+
+</div>
