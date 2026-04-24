@@ -1,8 +1,6 @@
 <div align="center">
 
-![header dark](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=250&text=Kaushal%20Chaudhary&fontColor=00ff88&fontSize=42&fontAlignY=40&desc=GTM%20Engineer%20%7C%20Outbound%20Automation%20%7C%20AI%20Workflows&descColor=aaaaaa&descAlignY=58#gh-dark-mode-only)
-
-![header light](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&text=Kaushal%20Chaudhary&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=GTM%20Engineer%20%7C%20Outbound%20Automation%20%7C%20AI%20Workflows&descColor=dddddd&descAlignY=58#gh-light-mode-only)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=250&text=Kaushal%20Chaudhary&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=GTM%20Engineer%20%7C%20Outbound%20Automation%20%7C%20AI%20Workflows&descColor=dddddd&descAlignY=58&descSize=16)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushalch)
 [![Mailsfly](https://img.shields.io/badge/Mailsfly.com-FF6B35?style=for-the-badge&logo=mail.ru&logoColor=white)](https://mailsfly.com)
@@ -12,34 +10,34 @@
 
 ---
 
-## ⚡ What I do
+## What I do
 
 I sit at the intersection of marketing ops, sales automation, and AI tooling. I turn messy GTM problems into clean, automated systems that scale without adding headcount.
 
 | Area | What it means in practice |
 |------|--------------------------|
-| 🎯 Signal-based outbound | Buying signals, intent data, behavioral triggers — not spray and pray |
-| 📬 Email infrastructure | AWS SES at scale, SPF/DKIM/DMARC, domain warmup, inbox placement |
-| 🤖 AI-powered workflows | Claude Code agents for lead research, outreach drafting, and CRM enrichment |
-| 🔗 CRM architecture | HubSpot and Zoho setup, lead scoring, lifecycle stages, deal pipeline from scratch |
-| ⚙️ GTM automation | End-to-end outbound engines: sourcing, enrichment, scoring, sequencing, delivery |
+| Signal-based outbound | Buying signals, intent data, behavioral triggers. Not spray and pray. |
+| Email infrastructure | AWS SES at scale, SPF/DKIM/DMARC, domain warmup, inbox placement |
+| AI-powered workflows | Claude Code agents for lead research, outreach drafting, and CRM enrichment |
+| CRM architecture | HubSpot and Zoho setup, lead scoring, lifecycle stages, deal pipeline from scratch |
+| GTM automation | End-to-end outbound engines: sourcing, enrichment, scoring, sequencing, delivery |
 
 ---
 
-## 📈 Things I've shipped
+## Things I've shipped
 
-- 🏗️ Built a **$300K pipeline in 6 months** at Passionfruit using Clay, Instantly, and website de-anonymization
-- 🔻 Reduced manual GTM tasks by **70%** via API-based CRM integrations and n8n automation
-- 📧 Scaled email infrastructure to **1M+ sends per month** on AWS SES with high deliverability
-- 📊 Increased MQLs by **30%** through signal-based enrichment at Kcloud
-- 💌 Improved open rates by **20%** and engagement by **15-25%** through A/B tested campaigns
-- 🤖 Built AI agents using Claude Code connected to MCP servers for a closed-loop agentic GTM workflow
-- 📬 Set up AWS SES with Sendy to hit **100K+ daily emails** with strong inbox placement
-- 🔍 Enabled website de-anonymization to auto-route high-intent visitors into outbound sequences
+- Built a **$300K pipeline in 6 months** at Passionfruit using Clay, Instantly, and website de-anonymization
+- Reduced manual GTM tasks by **70%** via API-based CRM integrations and n8n automation
+- Scaled email infrastructure to **1M+ sends per month** on AWS SES with high deliverability
+- Increased MQLs by **30%** through signal-based enrichment workflows
+- Improved open rates by **20%** and engagement by **15-25%** through A/B tested campaigns
+- Built AI agents using Claude Code connected to MCP servers for a closed-loop agentic GTM workflow
+- Set up AWS SES with Sendy to hit **100K+ daily emails** with strong inbox placement
+- Enabled website de-anonymization to auto-route high-intent visitors into outbound sequences
 
 ---
 
-## 🛠 Stack
+## Stack
 
 **Outbound and enrichment**
 
@@ -81,11 +79,11 @@ I sit at the intersection of marketing ops, sales automation, and AI tooling. I 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white)
-![API Integrations](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logoColor=white)
 
 ---
 
-## 🚀 Currently building
+## Currently building
 
 **[Mailsfly.com](https://mailsfly.com)** — permission-based email marketing SaaS on AWS SES. Bring your own credentials, keep your own deliverability.
 
@@ -93,8 +91,6 @@ I sit at the intersection of marketing ops, sales automation, and AI tooling. I 
 
 <div align="center">
 
-![footer dark](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:000000&height=120&section=footer#gh-dark-mode-only)
-
-![footer light](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer#gh-light-mode-only)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer)
 
 </div>
