@@ -24,17 +24,6 @@ I sit at the intersection of marketing ops, sales automation, and AI tooling. I 
 
 ---
 
-## Things I've shipped
-
-- Built a **$300K pipeline in 6 months** at Passionfruit using Clay, Instantly, and website de-anonymization
-- Reduced manual GTM tasks by **70%** via API-based CRM integrations and n8n automation
-- Scaled email infrastructure to **1M+ sends per month** on AWS SES with high deliverability
-- Increased MQLs by **30%** through signal-based enrichment workflows
-- Improved open rates by **20%** and engagement by **15-25%** through A/B tested campaigns
-- Built AI agents using Claude Code connected to MCP servers for a closed-loop agentic GTM workflow
-- Set up AWS SES with Sendy to hit **100K+ daily emails** with strong inbox placement
-- Enabled website de-anonymization to auto-route high-intent visitors into outbound sequences
-
 ---
 
 ## Stack
